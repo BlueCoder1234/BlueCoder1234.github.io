@@ -1,0 +1,70 @@
+body {
+    background: rgb(109, 157, 230);
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+li {
+  display: inline-block;
+  margin: 12px;
+  font-size: 25px;
+}
+header {
+    background: rgb(134, 182, 255);
+    padding: 10px 20px;
+    font-size: 37px;
+}
+p {
+    font-size: 25px;
+}
+section {
+    display: flex;
+    flex-direction: row;
+}
+figcaption.Space-Inv {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+figcaption.Flappy-Bird {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+    background: rgb(134, 182, 255);
+    padding: 10px 20px;
+    height: 75px;
+}
+div.Youtube {
+    color: red;
+    font-size: 25px;
+}
+div.Py-disclaimer {
+    font-size: 28px;
+}
+div.Snake {
+    font-size: 20px;
+}
+button.Snake_Download {
+    width: 250px;
+    height: 100px;
+    font-size: 38px;
+}
+button.Snake_Button {
+    width: 200px;
+    height: 70px;
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button.Pong_Button {
+    width: 200px;
+    height: 70px;
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button.Pong_Download {
+    width: 250px;
+    height: 100px;
+    font-size: 38px;
+}
